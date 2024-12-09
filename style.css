@@ -104,7 +104,8 @@ nav ul li a#contact:hover {
 .logo {
   position: absolute;
   left: 0;
-  padding-left: 20px; /* Opcjonalne, dla odstępu */
+  padding-top: 0.3%;
+  padding-left: 11%;
 }
 
 .logo img {
